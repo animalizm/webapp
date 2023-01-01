@@ -1,5 +1,5 @@
 ## _commercials
----
+
 <iframe width="1680*0,5" height="766*0,5" src="https://www.youtube.com/embed/Xxq8AZY62d0" title="Sorokin 01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
 <iframe width="1665*0,5" height="779*0,5" src="https://www.youtube.com/embed/u0_kk41WofY" title="Sorokin 02" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
@@ -7,13 +7,11 @@
 <iframe width="1665*0,5" height="779*0,5" src="https://www.youtube.com/embed/M9-ldexTi1k" title="Sorokin 03" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
 
-
 <iframe width="1665*0,5" height="779*0,5" src="https://www.youtube.com/embed/plo-uifs4JA" title="tehnopark" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
 <iframe width="1665*0,5" height="779*0,5" src="https://www.youtube.com/embed/jcawAMVG5QU" title="mapping 6 01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
 <iframe width="1665*0,5" height="779*0,5" src="https://www.youtube.com/embed/jQMQ4d9m_38" title="Version the alternate  First shot of World War I HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
-
 
 
 <iframe width="1665*0,5" height="779*0,5" src="https://www.youtube.com/embed/iDtRMTygOAU" title="3 Batumi Ushguli 03" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
@@ -46,7 +44,6 @@
 
 
 ## _students
----
 
 <iframe width="1665*0,5" height="779*0,5" src="https://www.youtube.com/embed/z5aimA2aQqw" title="corpse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
@@ -56,7 +53,6 @@
 
 
 <iframe width="1665*0,5" height="779*0,5" src="https://www.youtube.com/embed/e56_8zVheCI" title="shot shkaf" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
-
 
 
 <iframe width="1665*0,5" height="779*0,5" src="https://www.youtube.com/embed/e56_8zVheCI" title="shot shkaf" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
@@ -76,7 +72,7 @@
 
 
 ## _BAND'EROS
----
+
 <iframe width="1665*0,5" height="779*0,5" src="https://www.youtube.com/embed/n_p0x035yXk" title="Банд'Эрос   Наоми я бы Кэмбел" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
 
@@ -95,7 +91,6 @@
 
 
 ## _Akelan
----
 
 <iframe width="1665*0,5" height="779*0,5" src="https://www.youtube.com/embed/WPG8oSjIWSs" title="remixRU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 
@@ -113,11 +108,8 @@
 
 
 ## _movies
----
 
 <iframe width="1665*0,5" height="779*0,5" src="https://www.youtube.com/embed/hgPnJlf3QLU" title="delo cut" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
-
-
 
 <iframe width="1665*0,5" height="779*0,5" src="https://www.youtube.com/embed/mwMtKJVCt80" title="Virus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 

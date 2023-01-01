@@ -1,6 +1,6 @@
-https://animalizm.github.io/docs/blog.md  
-https://animalizm.github.io/docs/contacts.md   
-https://animalizm.github.io/docs/privacy_policy.md  
-https://animalizm.github.io/docs/terms_of_use.md  
-https://animalizm.github.io/docs/vids.md  
-https://animalizm.github.io/docs/faq.md  
+[Blog](https://animalizm.github.io/docs/blog.md)  
+[contacts](https://animalizm.github.io/docs/contacts.md)   
+[privacy policy](https://animalizm.github.io/docs/privacy_policy.md)  
+[terms of use](https://animalizm.github.io/docs/terms_of_use.md)  
+[vids](https://animalizm.github.io/docs/vids.md)  
+[F.A.Q.](https://animalizm.github.io/docs/faq.md)  

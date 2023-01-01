@@ -3,4 +3,4 @@
 [privacy policy](https://animalizm.github.io/webapp/docs/privacy_policy.md)  
 [terms of use](https://animalizm.github.io/webapp/docs/terms_of_use.md)  
 [vids](https://animalizm.github.io/webapp/docs/vids.md)  
-[F.A.Q.](https://animalizm.github.io/webapp/docs/faq.md)  
+[F.A.Q.](/docs/faq.md)  

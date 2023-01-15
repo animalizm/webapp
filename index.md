@@ -1,3 +1,7 @@
+---
+
+---
+
 ## [[vids]]
 [vids](https://animalizm.github.io/webapp/docs/vids)  
 
@@ -15,9 +19,6 @@
 ## [[about]]
 [contacts](https://animalizm.github.io/webapp/docs/contacts)   
 
-## [[faq|F.A.Q.]]
-[F.A.Q.](https://animalizm.github.io/webapp/docs/faq)  
-
 ## [[footer]]
 [footer](https://animalizm.github.io/webapp/docs/footer)  
 
@@ -26,5 +27,11 @@
 
 ## [[menu]]
 [menu](https://animalizm.github.io/webapp/docs/menu)  
+
+
+
+
+
+
 
 

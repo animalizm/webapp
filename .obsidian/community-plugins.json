@@ -1,5 +1,8 @@
 [
   "obsidian-save-as-gist",
   "obsidian-share-as-gist",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-markdown-file-suffix",
+  "mdx-as-md-obsidian",
+  "obsidian-react-components"
 ]

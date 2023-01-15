@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"41b5ecde41f59fec","x":-384,"y":-295,"width":400,"height":384,"type":"file","file":"index.md"},
+		{"id":"882d0bbf983deeb9","x":125,"y":-295,"width":331,"height":104,"color":"5","type":"file","file":"docs/terms_of_use.md"},
+		{"id":"69a803c29cac5a5d","x":-384,"y":183,"width":170,"height":91,"type":"file","file":"docs/blog.md"},
+		{"id":"f221bdcfe09093b9","x":-384,"y":347,"width":840,"height":586,"color":"1","type":"file","file":"docs/vids.md"},
+		{"id":"8c9c3e61ea7e502b","x":125,"y":89,"width":331,"height":185,"color":"2","type":"file","file":"docs/about.md"},
+		{"id":"9e86294902d58da3","x":125,"y":-103,"width":331,"height":116,"color":"5","type":"file","file":"docs/privacy_policy.md"}
+	],
+	"edges":[
+		{"id":"3c9eb3a530a71dc2","fromNode":"41b5ecde41f59fec","fromSide":"bottom","toNode":"69a803c29cac5a5d","toSide":"top"},
+		{"id":"a8fa5a13fcd6fdf1","fromNode":"41b5ecde41f59fec","fromSide":"bottom","toNode":"f221bdcfe09093b9","toSide":"top"},
+		{"id":"c05ea1d5b3ec11fa","fromNode":"41b5ecde41f59fec","fromSide":"right","toNode":"882d0bbf983deeb9","toSide":"left"},
+		{"id":"1f1a4e56176eb5e2","fromNode":"41b5ecde41f59fec","fromSide":"right","toNode":"9e86294902d58da3","toSide":"left"},
+		{"id":"533756615f364183","fromNode":"41b5ecde41f59fec","fromSide":"right","toNode":"8c9c3e61ea7e502b","toSide":"top"}
+	]
+}

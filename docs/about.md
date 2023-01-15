@@ -1,3 +1,7 @@
+---
+
+---
+
 Description
 
 Welcome to The Art of Aaron Blaise. I've been an artist all of my life and it's here that I'd like to share with all of you some of my techniques of painting the natural world around us.

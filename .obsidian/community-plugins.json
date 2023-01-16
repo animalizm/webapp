@@ -4,5 +4,11 @@
   "obsidian-git",
   "obsidian-markdown-file-suffix",
   "mdx-as-md-obsidian",
-  "obsidian-react-components"
+  "obsidian-react-components",
+  "copy-as-html",
+  "obsidian-enhancing-export",
+  "obsidian-html-tags-autocomplete",
+  "obsidian-html-plugin",
+  "copy-document-as-html",
+  "obsidian-paste-as-html"
 ]

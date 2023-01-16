@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "40a58fcf96f69a34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/about.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24456c58b417b8f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "comps/footer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dc484f9655011c1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comps/footer.md",
+                "file": "docs/partials/footer.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,12 +21,48 @@
             "group": "652c371bbaaa4b1c"
           },
           {
+            "id": "36234bffd0753a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/privacy_policy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "616c74730a944509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/terms_of_use.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0f7f0a9e607b597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/components/Matter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "372d163b2082549e",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "comps/footer.md",
+                "file": "docs/partials/footer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -81,7 +93,7 @@
             "group": "652c371bbaaa4b1c"
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comps/footer.md",
+                "file": "docs/components/Matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comps/footer.md",
+                "file": "docs/components/Matter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "comps/footer.md"
+                "file": "docs/components/Matter.md"
               }
             }
           }
@@ -220,15 +232,15 @@
   },
   "active": "37757854ce82a369",
   "lastOpenFiles": [
-    "comps/Georgia.md",
-    "comps/header.md",
-    "comps/mapping.md",
-    "comps/Matter.md",
-    "docs/vids.md",
-    "docs/privacy_policy.md",
-    "docs/blog.md",
-    "docs/about.md",
-    "index.md",
-    "comps/Band`Eros.md"
+    "docs/components/students.md",
+    "docs/components/Georgia.md",
+    "docs/components/Band`Eros.md",
+    "docs/components/alternative.md",
+    "docs/components/Akelan.md",
+    "docs/components/intellevision/intellevision.md",
+    "docs/components/commercials/Pashkevich.md",
+    "docs/partials/menu.md",
+    "docs/partials/header.md",
+    "docs/partials/footer.md"
   ]
 }

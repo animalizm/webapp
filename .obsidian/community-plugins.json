@@ -10,5 +10,10 @@
   "obsidian-html-tags-autocomplete",
   "obsidian-html-plugin",
   "copy-document-as-html",
-  "obsidian-paste-as-html"
+  "obsidian-paste-as-html",
+  "cm-editor-syntax-highlight-obsidian",
+  "dataview",
+  "code-emitter",
+  "customjs",
+  "obsidian-text-expander-js"
 ]

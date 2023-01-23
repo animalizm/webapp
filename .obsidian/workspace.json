@@ -8,49 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc484f9655011c1f",
+            "id": "e63f0a2ef987f983",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/partials/footer.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "652c371bbaaa4b1c"
-          },
-          {
-            "id": "36234bffd0753a8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/privacy_policy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "616c74730a944509",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/terms_of_use.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0f7f0a9e607b597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/components/Matter.md",
+                "file": "comps.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docs/partials/footer.md",
+                "file": "comps.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -89,11 +52,9 @@
                   "close": true
                 }
               }
-            },
-            "group": "652c371bbaaa4b1c"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 247.5
   },
   "right": {
     "id": "30dc50f44abeef93",
@@ -168,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/components/Matter.md",
+                "file": "comps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/components/Matter.md",
+                "file": "comps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +169,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/components/Matter.md"
+                "file": "comps.md"
               }
+            }
+          },
+          {
+            "id": "fbbfeb742ac8fbaa",
+            "type": "leaf",
+            "state": {
+              "type": "inline-scripts-button-view",
+              "state": {}
             }
           }
         ],
@@ -232,15 +201,15 @@
   },
   "active": "37757854ce82a369",
   "lastOpenFiles": [
-    "docs/components/students.md",
-    "docs/components/Georgia.md",
-    "docs/components/Band`Eros.md",
-    "docs/components/alternative.md",
-    "docs/components/Akelan.md",
-    "docs/components/intellevision/intellevision.md",
-    "docs/components/commercials/Pashkevich.md",
-    "docs/partials/menu.md",
-    "docs/partials/header.md",
-    "docs/partials/footer.md"
+    "docs/components/confetti.md",
+    "comps.md",
+    "docs/components/clock.md",
+    "docs/components/DiceRoller.md",
+    "docs/components/testcomp.md",
+    "docs/components/RootComponent.tsx.md",
+    "docs/components/rand.md",
+    "docs/components/ObsidianContextProvider.tsx.md",
+    "docs/components/menu.md",
+    "docs/components/Markdown.tsx.md"
   ]
 }
